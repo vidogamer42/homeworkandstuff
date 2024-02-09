@@ -1,0 +1,17 @@
+.centered{
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+body{
+    background-color:#21130d;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    margin-top: auto;
+}
